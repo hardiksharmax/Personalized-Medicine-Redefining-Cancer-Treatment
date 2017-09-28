@@ -1,0 +1,3 @@
+Problem Statement
+
+Cancer Tumor can have thousands of genetic mutation but the challenge is distinguishing the mutation that contribute to tumor growth from natural mutators by developing a model to classify genetic mutations based on clinical evidence (text). There are nine different classes a genetic mutation can be classified on.
