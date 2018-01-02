@@ -1,5 +1,4 @@
-# EDWISOR_PROJECT
- Personalized Medicine: Redefining Cancer Treatment
+# Personalized Medicine: Redefining Cancer Treatment
  
  
 Cancer Tumor can have thousands of genetic mutation but the challenge is distinguishing the mutation that contribute to tumor growth from natural mutators
